@@ -7,6 +7,6 @@ $belanjaan = array(
 'mouse' => 150000
 );
 
-echo "total pengeluaran saya hari ini sebesar Rp." $belanjaan('laptop');
+echo "total pengeluaran saya hari ini sebesar Rp.". number_format(array_sum($belanjaan));
 
 ?>
