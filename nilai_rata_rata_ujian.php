@@ -8,6 +8,6 @@ $nilai = array (
 );
 $ratarata = array_sum($nilai) / count($nilai);
 
-echo 'Rata-rata nilai ujian saya adalah' . $ratarata  
+echo "Rata-rata nilai ujian saya adalah $ratarata"
 
 ?>
