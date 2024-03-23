@@ -1,6 +1,6 @@
 <?php 
 
-$angka = 20;
+$angka = 100;
 
 function getJenisAngka($angka) {
     if ($angka % 2 == 0) {
