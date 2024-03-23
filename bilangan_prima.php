@@ -10,7 +10,7 @@ function isPrime($angka) {
     return 1;
 }
 
-$angka = 20;
+$angka = 23;
 $prima = isPrime($angka);
 
 if ($prima == 1) {
