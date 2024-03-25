@@ -10,7 +10,7 @@ $A = [
 ];
 
 foreach ($A as $piramid) {
-    echo "$piramid \n";
+    echo "$piramid \n"; 
 }
 
 //WARNING:
