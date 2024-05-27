@@ -1,16 +1,7 @@
 <?php
 
-$A = [
-    "AAAAAA",
-    "AAAAA",
-    "AAAA",
-    "AAA",
-    "AA",
-    "A"
-];
-
-foreach ($A as $piramid) {
-    echo "$piramid \n"; 
+for($i=6; $i <= 1; $i--) {
+    echo str_repeat("A", $i). "\n";
 }
 
 //WARNING:
